@@ -16,6 +16,6 @@ Icon
 .Trashes
 
 # generated documentation
-scribblings/*.js
-scribblings/*.css
-scribblings/*.html
+*/scribblings/*.js
+*/scribblings/*.css
+*/scribblings/*.html
